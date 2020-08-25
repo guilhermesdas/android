@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pet Shop</string>
+    <string name="tela_cadastro">Adicionar usuário</string>
+    <string name="tela_lista">Listar usuários</string>
+    <string name="tela_alterar">Alterar usuário</string>
+    <string name="tela_cadastro_animal">Adicionar pet</string>
+    <string name="tela_lista_animais">Listar pets</string>
+    <string name="tela_alterar_animal">Alterar pet</string>
+</resources>
